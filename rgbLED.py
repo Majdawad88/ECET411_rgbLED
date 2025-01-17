@@ -1,5 +1,4 @@
-  GNU nano 7.2                                                                     rgb.py
-#libraries
+# git clone https://github.com/Majdawad88/ECET411_rgbLED.git                                                                     rgb.py
 import RPi.GPIO as GPIO
 from time import sleep
 #disable warnings (optional)
